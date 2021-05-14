@@ -1,4 +1,6 @@
-# Apple Installer Checksums
+# Apple Installer Checksums 
+
+The [original repository](https://github.com/notpeter/apple-installer-checksums) seems to be no longer updated from Feb. 2nd, 2021. I'll keep a copy for me and my friends. All credits to the original authors
 
 ## What?
 
